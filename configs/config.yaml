@@ -1,0 +1,7 @@
+server_addr: :80
+db_config:
+  host: localhost
+  port: 5432
+  user: postgres
+  pass: postgres
+  db: hsesql
