@@ -1,6 +1,5 @@
 package database
 
-import "C"
 import (
 	"context"
 	"database/sql"
